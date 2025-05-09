@@ -1,6 +1,10 @@
 # Computer Architecture Projects
 Here in `Readme.md` will talk about definitions of computer architecture
 
+## Final Project for this course
+**8-Bit ALU System**
+[Link](https://github.com/Saad711T/8-Bit-ALU-System)
+
 ## Definitions :
 ### Logic Circuit types :
 - Combinational : Adder - Substractor - Decoder - Encoder - Compartor - Multiplexer - Demultiplexer
@@ -22,3 +26,5 @@ The Register names can be have a meaning :
 - `TR` : Temporary Register
 - `AC` : Accumlator
 - `PC` : Program Counter
+
+

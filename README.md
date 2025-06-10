@@ -3,8 +3,8 @@ Here in `Readme.md` will talk about definitions of computer architecture
 
 ## Definitions :
 ### Logic Circuit types :
-- Combinational : Adder - Substractor - Decoder - Encoder - Compartor - Multiplexer - Demultiplexer
-- Sequential : Register - Flip Flop - Latches - Counters
+1. Combinational : Adder - Substractor - Decoder - Encoder - Compartor - Multiplexer - Demultiplexer
+2. Sequential : Register - Flip Flop - Latches - Counters
 
 ### Microoperation :
 Operations will performed on data stored in register.
